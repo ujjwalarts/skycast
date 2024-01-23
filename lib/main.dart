@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Mausam',
+      title: 'SkyCast',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
           seedColor: AppColor.defaultAppColor,
